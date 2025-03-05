@@ -1,4 +1,5 @@
-<img src="https://www.canva.com/design/DAGg15F2Lkk/UGK-Idh8TJZu-W9zD2NgHg/watch?utm_content=DAGg15F2Lkk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfea158d7c3" alt="GitHub Banner" style="width: 100%;">
+![GitHub Banner]([https://www.canva.com/design/DAGg15F2Lkk/UGK-Idh8TJZu-W9zD2NgHg/watch](https://github.com/MuhammadIsmaeel786/MuhammadIsmaeel786/blob/main/Pink%20and%20Purple%20Gradient%20Vlogger%20Simple%20Youtube%20Channel%20Art.gif))
+
 
 # Hi 👋, my name is Muhammad Ismaeel Saghar!
 
