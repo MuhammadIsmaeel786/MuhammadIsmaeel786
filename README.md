@@ -1,56 +1,38 @@
-<h1 align="center">
-  <img src="your-banner-image-url" width="100%" alt="Banner">
-  <br>
-  Muhammad Ismaeel Saghar
-</h1>
-
-<p align="center">
-  <img src="your-profile-image-url" width="150" style="border-radius: 50%;" alt="Profile Picture">
-</p>
-
-<p align="center">
-  👋 Hi, my name is <strong>Muhammad Ismaeel Saghar</strong>!<br>
-  🎓 Bachelor of Science in Computer Science<br>
-  📍 Islamabad, Pakistan<br>
-  💡 I love solving problems and helping people!
-</p>
-
----
-
-## 📌 About Me
-🎓 **Bachelor of Science in Computer Science**  
-📍 **Islamabad, Pakistan**  
-💡 **Passion for Problem-Solving & Helping People**  
-
----
-
-## 📫 Connect with Me
-
-<table>
-<tr>
-<td>🔗 <b>LinkedIn</b></td>
-<td><a href="https://www.linkedin.com/in/muhammad-ism%C3%A6el-saghar-7b08291a6/"><b>@muhammad-ismæel-saghar</b></a></td>
-</tr>
-<tr>
-<td>📧 <b>Email</b></td>
-<td><a href="mailto:muhammadismaeelsaghar@gmail.com"><b>muhammadismaeelsaghar@gmail.com</b></a></td>
-</tr>
-</table>
-
----
-
-## 🔥 Skills & Technologies
-✅ **Languages:** Python, JavaScript  
-✅ **Web Development:** HTML, CSS, React.js, Node.js  
-✅ **Tools:** Adobe, PyCharm, VS Code  
-
----
-
-## 🚀 Recent Projects
-📌 **Project 1:** [GitHub Link](#)  
-📌 **Project 2:** [GitHub Link](#)  
-📌 **Project 3:** [GitHub Link](#)  
-
----
-
-⭐️ *Feel free to follow me and check out my repositories!*
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile</title>
+    <style>
+        body {
+            background-color: #0d1117;
+            color: #c9d1d9;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            font-size: 3rem;
+            font-weight: bold;
+            overflow: hidden;
+            white-space: nowrap;
+            border-right: 4px solid white;
+            width: 0;
+            animation: typing 3s steps(30, end) forwards, blink 0.75s step-end infinite;
+        }
+        @keyframes typing {
+            from { width: 0; }
+            to { width: 100%; }
+        }
+        @keyframes blink {
+            from { border-color: white; }
+            to { border-color: transparent; }
+        }
+    </style>
+</head>
+<body>
+    <h1>Your Name</h1>
+    <p>Welcome to my GitHub profile! 🚀</p>
+</body>
+</html>
