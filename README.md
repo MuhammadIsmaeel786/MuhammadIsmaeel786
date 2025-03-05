@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  👋 Hi, my name is <strong>Muhammad Isameel Saghar</strong>!<br>
+  👋 Hi, my name is <strong>Muhammad Ismaeel Saghar</strong>!<br>
   🎓 Bachelor of Science in Computer Science<br>
   📍 Islamabad, Pakistan<br>
   💡 I love solving problems and helping people!
@@ -17,20 +17,39 @@
 
 ---
 
-### 📫 Connect with me:
+## 📌 About Me
+🎓 **Bachelor of Science in Computer Science**  
+📍 **Islamabad, Pakistan**  
+💡 **Passion for Problem-Solving & Helping People**  
 
-- 📎 **LinkedIn:** [@itsjordanmuller]([https://linkedin.com/](https://www.linkedin.com/in/muhammad-ismæel-saghar-7b08291a6/))
-- 📧 **Email:** [muhammadismaeelsaghar@gmail.com](mailto:muhammadismaeelsaghar@gmail.com)
+---
 
+## 📫 Connect with Me
+
+<table>
+<tr>
+<td>🔗 <b>LinkedIn</b></td>
+<td><a href="https://www.linkedin.com/in/muhammad-ism%C3%A6el-saghar-7b08291a6/"><b>@muhammad-ismæel-saghar</b></a></td>
+</tr>
+<tr>
+<td>📧 <b>Email</b></td>
+<td><a href="mailto:muhammadismaeelsaghar@gmail.com"><b>muhammadismaeelsaghar@gmail.com</b></a></td>
+</tr>
+</table>
 
 ---
 
-### 🔥 Skills & Technologies
-- **Languages:** Python, JavaScript,
-- **Web Development:** HTML, CSS, React.js, Node.js
-- **Tools:** Adobe, Pycharm, VS Code
+## 🔥 Skills & Technologies
+✅ **Languages:** Python, JavaScript  
+✅ **Web Development:** HTML, CSS, React.js, Node.js  
+✅ **Tools:** Adobe, PyCharm, VS Code  
 
 ---
+
+## 🚀 Recent Projects
+📌 **Project 1:** [GitHub Link](#)  
+📌 **Project 2:** [GitHub Link](#)  
+📌 **Project 3:** [GitHub Link](#)  
 
 ---
 
