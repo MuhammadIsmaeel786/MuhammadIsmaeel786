@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="your-banner-image-url" width="100%" alt="Banner">
+  <br>
+  Muhammad Ismaeel Saghar
+</h1>
 
-<!--
-**MuhammadIsmaeel786/MuhammadIsmaeel786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="your-profile-image-url" width="150" style="border-radius: 50%;" alt="Profile Picture">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  👋 Hi, my name is <strong>Muhammad Isameel Saghar</strong>!<br>
+  🎓 Bachelor of Science in Computer Science<br>
+  📍 Islamabad, Pakistan<br>
+  💡 I love solving problems and helping people!
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Connect with me:
+
+- 📎 **LinkedIn:** [@itsjordanmuller]([https://linkedin.com/](https://www.linkedin.com/in/muhammad-ismæel-saghar-7b08291a6/))
+- 📧 **Email:** [muhammadismaeelsaghar@gmail.com](mailto:muhammadismaeelsaghar@gmail.com)
+
+
+---
+
+### 🔥 Skills & Technologies
+- **Languages:** Python, JavaScript,
+- **Web Development:** HTML, CSS, React.js, Node.js
+- **Tools:** Adobe, Pycharm, VS Code
+
+---
+
+---
+
+⭐️ *Feel free to follow me and check out my repositories!*
